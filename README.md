@@ -136,25 +136,25 @@ The application was tested using each of the required rescue filters. The data t
 
 ### Reset / Unfiltered Dashboard
 
-*Insert Reset dashboard screenshot here.*
+<img width="1241" height="1342" alt="Screenshot 2026-08-14 195922" src="https://github.com/user-attachments/assets/29dd807b-0b8d-4450-afbb-c81a198437f4" />
 
 ### Water Rescue
 
 The Water Rescue filter displays intact female dogs of the preferred water-rescue breeds within the required training-age range.
 
-*Insert Water Rescue screenshot here.*
+<img width="1222" height="1335" alt="Screenshot 2026-08-14 200010" src="https://github.com/user-attachments/assets/38100530-e6c9-4017-a793-3c33c8e4e84e" />
 
 ### Mountain or Wilderness Rescue
 
 The Mountain or Wilderness Rescue filter displays intact male dogs from the preferred mountain-rescue breeds between 26 and 156 weeks old.
 
-*Insert Mountain or Wilderness Rescue screenshot here.*
+<img width="1229" height="1089" alt="Screenshot 2026-08-14 200034" src="https://github.com/user-attachments/assets/b9af643d-dd1c-4a9f-bcee-c613f4dfc250" />
 
 ### Disaster Rescue or Individual Tracking
 
 The Disaster Rescue or Individual Tracking filter displays intact male dogs from the preferred tracking and disaster-rescue breeds between 20 and 300 weeks old.
 
-*Insert Disaster Rescue or Individual Tracking screenshot here.*
+<img width="1234" height="1051" alt="Screenshot 2026-08-14 200047" src="https://github.com/user-attachments/assets/78597b09-057f-430f-8b06-7c7b60282af2" />
 
 ## Challenges and Solutions
 
